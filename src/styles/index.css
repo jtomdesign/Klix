@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&family=Fira+Code:wght@300..700&family=Vina+Sans&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --color-blueTom-50: #e1f4fe;
+  --color-blueTom-100: #ade3fe;
+  --color-blueTom-200: #29c9f9;
+  --color-blueTom-300: #21abd4;
+  --color-blueTom-400: #1a8fb2;
+  --color-blueTom-500: #147592;
+  --color-blueTom-600: #0d5d75;
+  --color-blueTom-700: #08475a;
+  --color-blueTom-800: #043241;
+  --color-blueTom-900: #021f29;
+  --color-blueTom-1000: #01161e;
+  --color-blueTom-1100: #000000;
+
+  --font-sans: "Figtree", sans-serif;
+  --font-display: "Vina Sans", sans-serif;
+  --font-mono: "Fira Code", monospace;
+}
